@@ -2,8 +2,6 @@
 
 --This repository contains an interactive dashboard for analyzing e-commerce sales performance. The dashboard provides insights into key metrics such as sales, profits, customer trends, and payment modes.
 
-# Features
-
 # Overview
 --Total Amount: ₹438K
 --Total Profit: ₹37K
